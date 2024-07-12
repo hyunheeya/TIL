@@ -13,7 +13,9 @@
 # 각  폴더마다 가지는 과목이 있으며, 하위 폴더로 챕터를 나눌 계획
 
 ## ETC
-
+### GIT
+- [GITLAB](https://github.com/hyunheeya/TIL/tree/master/PYTHON) 
+- **GITLAB 폴더 추가하기**
 
 ## PYTHON
 
