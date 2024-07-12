@@ -1,2 +1,1 @@
-# Today I Learned (TIL)
-## Git
+# 웹 학습
