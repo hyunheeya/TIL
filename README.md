@@ -20,6 +20,17 @@
 
 
 ### ALGORITHM
+- DAY01
+- STUDY(03)
+  - **LIST**
+    - Practice
+    - Solved Code
+
+### Java
+- STUDY(03)
+  - **LIST**
+    - Practice
+    - Compared to Python
 
 
 ### WEB
@@ -30,3 +41,6 @@
 
 ### Vue
 
+### JavaScript
+
+### Spring
